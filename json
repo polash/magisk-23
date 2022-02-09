@@ -1,0 +1,22 @@
+{
+  "app": {
+    "version": "23",
+    "versionCode": "23000",
+    "link": "https://github.com/topjohnwu/Magisk/releases/download/v23.0/Magisk-v23.0.apk",
+    "note": "https://topjohnwu.github.io/Magisk/releases/22100.md"
+  },
+  "stub": {
+    "versionCode": "23",
+    "link": "https://github.com/topjohnwu/Magisk/releases/download/v23.0/Magisk-v23.0.apk"
+  },
+  "uninstaller": {
+    "link": "https://github.com/topjohnwu/Magisk/releases/download/v21.4/Magisk-uninstaller-20210117.zip"
+  },
+  "magisk": {
+    "version": "24.1",
+    "versionCode": "24100",
+    "link": "https://github.com/topjohnwu/Magisk/releases/download/v24.1/Magisk-v24.1.apk",
+    "note": "https://topjohnwu.github.io/Magisk/releases/22100.md",
+    "md5": ""
+  }
+}
