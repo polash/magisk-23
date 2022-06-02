@@ -13,10 +13,10 @@
     "link": "https://github.com/topjohnwu/Magisk/releases/download/v21.4/Magisk-uninstaller-20210117.zip"
   },
   "magisk": {
-    "version": "24.3",
-    "versionCode": "24300",
-    "link": "https://github.com/topjohnwu/Magisk/releases/download/v24.3/Magisk-v24.3.apk",
-    "note": "https://topjohnwu.github.io/Magisk/releases/24300.md",
+    "version": "23.0",
+    "versionCode": "23000",
+    "link": "https://github.com/topjohnwu/Magisk/releases/download/v23.0/Magisk-v23.0.apk",
+    "note": "https://topjohnwu.github.io/Magisk/releases/23000.md",
     "md5": ""
   }
 }
